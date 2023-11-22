@@ -1,0 +1,6 @@
+#big numbers big fee
+login seanko 129430 201.52.201.20
+place 03:00:00:03:00:00 201.52.201.20 seanko monke 50000 03:00:02:00:00:00 s
+#sender doesn't have enough funds
+place 03:00:02:00:00:05 201.52.201.20 seanko monke 5 03:00:02:00:01:05 s
+$$$

@@ -1,0 +1,13 @@
+#paying yourself but fees are too much 
+login monke 576932 210.41.202.69
+place 03:00:00:03:00:00 210.41.202.69 monke monke 30 03:00:00:08:00:00 s
+place 03:00:00:08:03:00 210.41.202.69 monke gorilla 35 03:00:00:08:10:00 s
+place 04:10:00:10:00:01 210.41.202.69 monke gorilla 20 04:10:00:10:00:08 o
+out monke 210.41.202.69
+login gorilla 421015 213.33.602.20
+place 04:10:00:10:00:04 213.33.602.20 gorilla monke 18 04:10:00:12:00:04 o
+out gorilla 213.33.602.20
+$$$
+s 03:00:01:08:00:05
+r 03:00:00:03:00:00 03:00:00:08:49:99
+h gorilla

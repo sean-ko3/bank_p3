@@ -1,0 +1,21 @@
+#looking at place
+login monke 576932 213.21.124.29
+# exec daate is before sender and recipient registraion
+place 03:00:00:00:00:25 213.21.124.29 monke donke 30 03:00:00:00:00:30 s
+out monke 213.21.124.29
+login monke 375921 129.29.191.29
+#not logged in
+place 03:00:00:01:00:05 129.29.191.29 monke donke 20 03:00:03:01:00:05 s
+login monke 576932 213.21.124.28
+#exec - time > 3 days and sender DNE
+place 03:00:03:02:00:05 213.21.124.28 monke donke 40 03:00:06:02:00:06 s
+place 03:00:03:03:00:05 213.21.124.28 seanagx donke 40 03:00:06:02:00:10 s
+# IP address not found
+place 03:00:05:00:00:25 213.21.124.29 monke donke 30 03:00:07:00:00:30 o
+#bad logout
+out monke 214.34.296.29
+out monke 213.21.124.28
+$$$
+s 03:00:00:00:00:25
+h monke
+l 03:00:00:01:00:05 03:00:06:02:00:10

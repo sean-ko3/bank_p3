@@ -1,0 +1,11 @@
+#loyal so they have enough for fees otherwise not enough 
+#17+10
+login seanko 129430 912.08.933.32
+place 07:99:00:00:00:00 912.08.933.32 seanko monke 10 07:99:00:00:00:55 o
+place 07:99:00:00:00:59 912.08.933.32 seanko monke 10 08:00:00:00:00:00 o
+login monke 208994 219.40.021.24
+place 08:00:00:00:04:05 219.40.021.24 monke seanko 12 08:00:00:00:04:15 o
+place 08:00:00:00:04:15 912.08.933.32 seanko seanko 28 08:00:00:00:05:15 s
+$$$
+h seanko
+h monke

@@ -1,0 +1,10 @@
+#have a case where 1 dollar is sent testing queries
+#one transaction as well
+#id not found and looking at client history 
+login donke 375920 155.21.652.32
+login donke 375921 155.21.652.38
+place 04:09:20:12:53:32 155.21.652.38 donke monke 1  04:09:20:15:53:32 o
+place 04:09:20:14:53:32 155.21.652.38 donke seanko 1  04:09:23:16:53:32 s
+$$$
+h daiiwa
+h donke

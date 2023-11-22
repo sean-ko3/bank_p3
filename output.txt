@@ -1,0 +1,72 @@
+User gorilla logged in.
+Transaction placed at 41000100005: $100 from gorilla to donke at 41000100007.
+Transaction executed at 41000100007: $100 from gorilla to donke.
+Transaction placed at 41000100010: $100 from gorilla to donke at 41000100012.
+Transaction executed at 41000100012: $100 from gorilla to donke.
+Transaction placed at 41000100015: $100 from gorilla to donke at 41000100017.
+Transaction executed at 41000100017: $100 from gorilla to donke.
+Transaction placed at 41000100025: $100 from gorilla to donke at 41000100027.
+Transaction executed at 41000100027: $100 from gorilla to donke.
+Transaction placed at 41000100035: $100 from gorilla to donke at 41000100037.
+Transaction executed at 41000100037: $100 from gorilla to donke.
+Transaction placed at 41000100045: $100 from gorilla to donke at 41000100047.
+Transaction executed at 41000100047: $100 from gorilla to donke.
+Transaction placed at 41000100055: $100 from gorilla to donke at 41000100057.
+Transaction executed at 41000100057: $100 from gorilla to donke.
+Transaction placed at 41000100065: $100 from gorilla to donke at 41000100067.
+Transaction executed at 41000100067: $100 from gorilla to donke.
+Transaction placed at 41000100075: $100 from gorilla to donke at 41000100077.
+Transaction executed at 41000100077: $100 from gorilla to donke.
+Transaction placed at 41000100085: $100 from gorilla to donke at 41000100087.
+Transaction executed at 41000100087: $100 from gorilla to donke.
+Transaction placed at 41000100095: $100 from gorilla to donke at 41000100097.
+Transaction executed at 41000100097: $100 from gorilla to donke.
+Transaction placed at 41000100105: $100 from gorilla to donke at 41000100205.
+Transaction placed at 41000100115: $100 from gorilla to donke at 41000100205.
+User gorilla logged out.
+Transaction executed at 41000100205: $100 from gorilla to donke.
+Transaction executed at 41000100205: $100 from gorilla to donke.
+Customer gorilla account summary:
+Balance: $22570
+Total # of transactions: 13
+Incoming 0:
+Outgoing 13:
+3: gorilla sent 100 dollars to donke at 41000100027.
+4: gorilla sent 100 dollars to donke at 41000100037.
+5: gorilla sent 100 dollars to donke at 41000100047.
+6: gorilla sent 100 dollars to donke at 41000100057.
+7: gorilla sent 100 dollars to donke at 41000100067.
+8: gorilla sent 100 dollars to donke at 41000100077.
+9: gorilla sent 100 dollars to donke at 41000100087.
+10: gorilla sent 100 dollars to donke at 41000100097.
+11: gorilla sent 100 dollars to donke at 41000100205.
+12: gorilla sent 100 dollars to donke at 41000100205.
+Summary of [41000000000, 41001000000):
+0: gorilla sent 100 dollars to donke at 41000100007.
+1: gorilla sent 100 dollars to donke at 41000100012.
+2: gorilla sent 100 dollars to donke at 41000100017.
+3: gorilla sent 100 dollars to donke at 41000100027.
+4: gorilla sent 100 dollars to donke at 41000100037.
+5: gorilla sent 100 dollars to donke at 41000100047.
+6: gorilla sent 100 dollars to donke at 41000100057.
+7: gorilla sent 100 dollars to donke at 41000100067.
+8: gorilla sent 100 dollars to donke at 41000100077.
+9: gorilla sent 100 dollars to donke at 41000100087.
+10: gorilla sent 100 dollars to donke at 41000100097.
+11: gorilla sent 100 dollars to donke at 41000100205.
+12: gorilla sent 100 dollars to donke at 41000100205.
+There were a total of 13 transactions, 281Bank has collected 130 dollars in fees.
+0: gorilla sent 100 dollars to donke at 41000100007.
+1: gorilla sent 100 dollars to donke at 41000100012.
+2: gorilla sent 100 dollars to donke at 41000100017.
+3: gorilla sent 100 dollars to donke at 41000100027.
+4: gorilla sent 100 dollars to donke at 41000100037.
+5: gorilla sent 100 dollars to donke at 41000100047.
+6: gorilla sent 100 dollars to donke at 41000100057.
+7: gorilla sent 100 dollars to donke at 41000100067.
+8: gorilla sent 100 dollars to donke at 41000100077.
+9: gorilla sent 100 dollars to donke at 41000100087.
+10: gorilla sent 100 dollars to donke at 41000100097.
+There were 11 transactions that were placed between time 41000100005 to 41000100205.
+281Bank has collected 110 dollars in fees over 2 minutes.
+nk has collected 110 dollars in fees over 2 minutes.
